@@ -2,7 +2,6 @@
 
 Python code for every simulation figure and table in the report
 (Sections 9 and 10, Tables 8 and 10, and the block diagram in Fig. 4).
-It is the simple Method 1 code with Method 2 added in the same style.
 
 Requirements: Python 3 with numpy and matplotlib
 
